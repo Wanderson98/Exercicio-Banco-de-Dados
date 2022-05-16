@@ -1,0 +1,12 @@
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\bin\Debug\ConexaoBD.exe
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\bin\Debug\ConexaoBD.pdb
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.csproj.AssemblyReference.cache
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.csproj.SuggestedBindingRedirects.cache
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.Form1.resources
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.Properties.Resources.resources
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.csproj.GenerateResource.cache
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.exe
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.pdb
+D:\Wanderson\Aulas\WpfApp1\ConexaoBD\obj\Debug\ConexaoBD.Form2.resources

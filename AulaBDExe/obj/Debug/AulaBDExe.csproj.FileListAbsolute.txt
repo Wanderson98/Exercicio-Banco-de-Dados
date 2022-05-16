@@ -1,0 +1,11 @@
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\bin\Debug\AulaBDExe.exe.config
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\bin\Debug\AulaBDExe.exe
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\bin\Debug\AulaBDExe.pdb
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.csproj.AssemblyReference.cache
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.csproj.SuggestedBindingRedirects.cache
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.Form1.resources
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.Properties.Resources.resources
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.csproj.GenerateResource.cache
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.csproj.CoreCompileInputs.cache
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.exe
+D:\Wanderson\Aulas\WpfApp1\AulaBDExe\obj\Debug\AulaBDExe.pdb
